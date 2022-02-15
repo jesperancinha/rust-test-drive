@@ -7,6 +7,8 @@
 
 [![GitHub License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 
+[![rust-test-drive](https://github.com/jesperancinha/rust-test-drive/actions/workflows/performance-parsers.yml/badge.svg)](https://github.com/jesperancinha/rust-test-drive/actions/workflows/performance-parsers.yml)
+
 [![GitHub language count](https://img.shields.io/github/languages/count/jesperancinha/rust-test-drive.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/rust-test-drive.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/rust-test-drive.svg)](#)
