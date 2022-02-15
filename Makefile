@@ -9,7 +9,11 @@ install-rustup:
 coverage:
 	rustup override set nightly
 	export RUSTFLAGS="-Zinstrument-coverage"
-	#export RUSTC_WRAPPER=sccache
+	export RUSTC_WRAPPER=sccache
+	cargo build
+	cargo run
+	cargo test
+build:
 	cargo build
 	cargo run
 	cargo test
